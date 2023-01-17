@@ -755,17 +755,17 @@ font-family: Poppins;
 /** footer **/
 
 .footer {
-     background: #12153c;
-     padding-top: 85px;
+     background: #ffffff;
+     padding-top: 30px;
      text-align: center;
      padding-bottom: 5px;
      position: relative;
 }
 
-.footer::after {
+/* .footer::after {
      content: "";
      position: absolute;
-     height: 243px;
+     height: 200px;
      top: -243px;
      background-repeat: no-repeat;
      background: url(../images/cross_bottom.png);
@@ -773,7 +773,7 @@ font-family: Poppins;
 background-position: center;
 left: 0;
 right: 0;
-}
+} */
 
 
 .footer .titlepage {
