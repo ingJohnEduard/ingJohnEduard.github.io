@@ -344,7 +344,7 @@ border-radius: 10px;
 
 .banner_main {
 background:url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/262a57ca-b414-430c-af79-360125c80ea3/dfmzt2g-4d3364c0-3463-49a3-ba09-81c8b14d2c54.png/v1/fill/w_1280,h_734,q_80,strp/banner_by_johnbustamante_dfmzt2g-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzM0IiwicGF0aCI6IlwvZlwvMjYyYTU3Y2EtYjQxNC00MzBjLWFmNzktMzYwMTI1YzgwZWEzXC9kZm16dDJnLTRkMzM2NGMwLTM0NjMtNDlhMy1iYTA5LTgxYzhiMTRkMmM1NC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.9Ir1uoXd0gSUbSoVD-BZZgXrqo80pKVbq15lqypDlbo);
-padding: 90px 0 180px 0;
+padding: 90px 0 25em 0;
 display: flex;
 align-items: center;
 background-repeat: no-repeat;
@@ -397,11 +397,13 @@ font-family: Poppins;
 
 
 .text-img figure {
-     margin: 0;
+     display: flexbox;
+     align-items: center;
 }
 
 .text-img figure img {
-     width: 70%;
+     width: 100%;
+     margin-left:0em;
 }
 
 .text-bg a {
@@ -756,7 +758,7 @@ font-family: Poppins;
 
 .footer {
      background: #ffffff;
-     padding-top: 30px;
+     padding-top: 100px;
      text-align: center;
      padding-bottom: 0px;
      position: relative;
@@ -817,7 +819,7 @@ right: 0;
 
 .copyright {
      margin-top: 0px;
-     padding: 10px 0px;
+     padding: 20px 0px;
      background-color: transparent;
 }
 
