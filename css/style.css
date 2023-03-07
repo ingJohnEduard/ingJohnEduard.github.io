@@ -343,7 +343,7 @@ border-radius: 10px;
 }
 
 .banner_main {
-background:url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/262a57ca-b414-430c-af79-360125c80ea3/dfmzt2g-4d3364c0-3463-49a3-ba09-81c8b14d2c54.png/v1/fill/w_1280,h_734,q_80,strp/banner_by_johnbustamante_dfmzt2g-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzM0IiwicGF0aCI6IlwvZlwvMjYyYTU3Y2EtYjQxNC00MzBjLWFmNzktMzYwMTI1YzgwZWEzXC9kZm16dDJnLTRkMzM2NGMwLTM0NjMtNDlhMy1iYTA5LTgxYzhiMTRkMmM1NC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.9Ir1uoXd0gSUbSoVD-BZZgXrqo80pKVbq15lqypDlbo);
+background:url(https://media.istockphoto.com/id/1370544962/es/foto/fondo-de-papel-blanco-textura-de-cart%C3%B3n-fibroso-para-scrapbooking.jpg?s=612x612&w=0&k=20&c=Z38W9VpkMgSG-hmqYVNpKfcxmPQFKZZDsODhfksInSw=);
 padding: 90px 0 25em 0;
 display: flex;
 align-items: center;
@@ -362,8 +362,8 @@ font-family: Poppins;
 }
 
 .text-bg h1 {
-     color: #000000;
-     font-size: 70px;
+     color: #272727;
+     font-size: 3rem;
      padding-top: 40px;
      line-height: 80px;
      padding-bottom: 35px;
@@ -371,18 +371,18 @@ font-family: Poppins;
 }
 
 .text-bg span {
-     color: rgb(77, 74, 74);
-     font-size: 45px;
-     line-height: 65px;
+     color: #5a5a5a;
+     font-size: 3rem;
+     line-height: 2.8rem;
      font-weight: 500;
      padding-bottom: 20px;
      display: block;
 }
 
 .text-bg strong {
-     color: rgb(0, 0, 0);
-     font-size: 60px;
-     line-height: 65px;
+     color: #272727;
+     font-size: 2.8rem;
+     line-height: 2.8rem;
      font-weight: 600;
      padding-bottom: 30px;
      display: block; 
@@ -402,7 +402,7 @@ font-family: Poppins;
 }
 
 .text-img figure img {
-     width: 100%;
+     width: 60%;
      margin-left:0em;
 }
 
