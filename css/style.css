@@ -347,7 +347,7 @@ background:url(https://media.istockphoto.com/id/1370544962/es/foto/fondo-de-pape
 padding: 90px 0 25em 0;
 display: flex;
 align-items: center;
-background-repeat: no-repeat;
+background-repeat: repeat;
 background-size: 100% 100%;
 background-position: center;   
 }
