@@ -399,6 +399,7 @@ font-family: Poppins;
 .text-img figure {
      display: flexbox;
      align-items: center;
+     color: #222
 }
 
 .text-img figure img {
@@ -411,7 +412,7 @@ font-family: Poppins;
      background-color: transparent;
      border:#ddd solid 2px;
      border-radius: 10px;
-     color: #fff;
+     color: #222;
      font-weight: 500;
      padding: 13px 0px;
      width: 100%;
@@ -422,7 +423,7 @@ font-family: Poppins;
 }
 
 .text-bg a:hover {
-     background-color: #d0b608;
+     background-color: #1773fc;
      color: #fff;
      transition: ease-in all 0.5s;
 }
@@ -431,7 +432,7 @@ font-family: Poppins;
      text-align: center;
      padding-bottom: 60px;
 }
-.titlepage span {color: #d8bd08; font-weight: 500; font-size: 20px;}
+.titlepage span {color: #1773fc; font-weight: 500; font-size: 20px;}
 
 .titlepage h2 {
      font-size: 55px;
